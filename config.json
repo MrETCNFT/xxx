@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0x8A616E6C717F3117B48E9C6E55aaAFc9c706711d",
+  "SCAN_LINK": "https://blockscout.com/etc/mainnet/address/0x8A616E6C717F3117B48E9C6E55aaAFc9c706711d",
+  "NETWORK": {
+    "NAME": "Ethereum Classic",
+    "SYMBOL": "ETC",
+    "ID": 1
+  },
+  "NFT_NAME": "ETC Prime Apes Society",
+  "SYMBOL": "ETCPRIME",
+  "MAX_SUPPLY": 11111,
+  "WEI_COST": 350000000000000000,
+  "DISPLAY_COST": 0.35,
+  "GAS_LIMIT": 300000,
+  "SHOW_BACKGROUND": true
+}
